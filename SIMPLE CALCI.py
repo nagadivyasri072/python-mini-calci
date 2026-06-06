@@ -6,3 +6,5 @@ print("Multiiplication:",number_1*number_2)
 print("Division:",number_1/number_2)
 print("Square:",number_1**number_2)
 print("Cube:",number_1**3)
+
+input("Press Enter to exit...")
